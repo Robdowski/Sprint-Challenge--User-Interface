@@ -182,3 +182,9 @@ header p{
 header{
     border-bottom: 1px dashed black;
 }
+
+div img{
+    width: 400px;
+    height: 300px;
+    
+}
